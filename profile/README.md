@@ -1,4 +1,4 @@
-![NerdProject](https://github.com/nerdprojectorg/.github/profile/banner.png)
+![NerdProject](https://github.com/nerdprojectorg/.github/blob/main/profile/banner.png)
 
 The Nerd Project Organizations
 =================================
