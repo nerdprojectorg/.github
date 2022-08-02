@@ -2,4 +2,3 @@
 
 The Nerd Project Organizations
 =================================
-A collection of repositories
