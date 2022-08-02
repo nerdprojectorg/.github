@@ -2,5 +2,4 @@
 
 The Nerd Project Organizations
 =================================
-A collection of repositories for maintain device ZenFone Max Pro M2
-=================================
+A collection of repositories
