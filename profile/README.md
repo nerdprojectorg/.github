@@ -2,8 +2,5 @@
 
 The Nerd Project Organizations
 =================================
-A collection of repositories for maintain device ZenFone Max Pro M2 and homework
-
-### My Github
-
-- [NerdZ3ns](https://github.com/NerdZ3ns)
+A collection of repositories for maintain device ZenFone Max Pro M2
+=================================
